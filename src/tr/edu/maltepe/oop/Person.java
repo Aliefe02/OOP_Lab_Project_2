@@ -12,6 +12,7 @@ public class Person {
     {
         return name;
     }
+
     public String getsurname()
     {
         return surname;
