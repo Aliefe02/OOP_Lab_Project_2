@@ -14,6 +14,7 @@ public class Student extends Person{
     {
         setclass_name(class_name);
         System.out.println("Student "+getname()+" has enrolled "+getclass_name());
+
     }
 }
 
